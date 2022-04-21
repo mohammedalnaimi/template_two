@@ -1,2 +1,2 @@
-# template_two
+# Template_Two
 https://mohammadalnaimi.github.io/template_two/kasper.html
